@@ -1,4 +1,4 @@
-# CS450-Assignments
+# CS450 - Assignment 1
 Classwork for CS450 - Introduction to Data Visualization
 
 In this assignment, you are required to build this website using HTML and CSS with a focus on Flexbox layout. Follow these steps to complete the assignment:
