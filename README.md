@@ -1,6 +1,7 @@
 # CS450 - Assignment 1
-Classwork for CS450 - Introduction to Data Visualization
+# Website can be viewed here: https://antc3519.github.io/CS450-Assignment1/
 
+Classwork for CS450 - Introduction to Data Visualization
 In this assignment, you are required to build this website using HTML and CSS with a focus on Flexbox layout. Follow these steps to complete the assignment:
 
 1. Design and Layout: Utilize Flexbox exclusively for designing the layout of your webpage. Ensure that no other layout methods or frameworks are used. While the colors and fonts in your design do not need to match the sample exactly, it is highly recommended that you use a color picker tool to select colors that closely resemble those used in the sample.
